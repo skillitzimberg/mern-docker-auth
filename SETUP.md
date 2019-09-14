@@ -10,7 +10,7 @@ This is one reason I think you might consider using Golang (or any other strongl
 Let Gulp build when changes are made so we don't have to think about it, much.
 
 ### Configure the App
-Register our App as a class with an Express application property.
+Register our App as a class with an Express application property (a reference to Express).
 
 Register Morgan middleware to:  
 * log server messages  
