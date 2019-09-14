@@ -3,5 +3,13 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Scott Bergler <commandinghands@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "build": "gulp scripts"
+  },
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-typescript": "^5.0.1",
+    "typescript": "^3.6.3"
+  }
 }
