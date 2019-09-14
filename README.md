@@ -16,13 +16,14 @@ Code the special sauce . . .
 
 ### Project goals:  
 * Learn more about good architecture and design   
+* Practice clean architecture  
 * Learn microservices/SOA
 * Become more fluent with Docker 
 * Get comfy with Mongo  
-* Practice building an API's  
+* Practice building API's  
 * Learn authorization more thoroughly  
 * Relearn TypeScript  
-* Get familiar with linting    
+* Make linting a habit    
 * Practice testing & TDD  
 * Practice React and UI/UX  
 * Work on documentation skills  
@@ -31,9 +32,9 @@ Code the special sauce . . .
 ## Setup/Installation Requirements
 To view or clone the code, go to [GitHub](https://github.com/skillitzimberg/mern-docker-auth).
 
-A WORK IN PROGRESS. MORE TO COME . . .  
+To build the project yourself, follow the steps in [SETUP](SETUP.md).
 
-## Known Bugs
+## Known Bugs & Issues
 
 ## Support and contact details
 Scott Bergler - commandinghands@gmail.com
