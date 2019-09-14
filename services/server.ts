@@ -1,11 +1,12 @@
-const express = require("express");
-const mongoose = require("mongoose");
-const bodyParser = require("body-parser");
-const passport = require("passport");
+import express from "express";
+import mongoose from "mongoose";
+import bodyParser from "body-parser";
+import passport from "passport";
 
-const users = require("./src/routes/api/users");
+import users from "./src/routes/api/users";
+
 // App Instance
-const app = express();
+const app: express.Application = express();
 
 // Bodyparser middleware
 app.use(

@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs"
+  },
+  "include": [
+    "src/**/*.ts",
+    "services/src/**/*.ts",
+    "client/src/**/*.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
