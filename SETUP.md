@@ -27,4 +27,9 @@ Set up listening.
 
 ### Configure test environment
 Add Mocha, Chai, & Chai-HTTP.  
-Add ts-node to provide TypeScript interpretation to the Mocha environment.  
+Add ts-node to provide TypeScript interpretation to the Mocha environment. 
+Add test script to package.json.  
+ NOTE:  
+ in test script replace: `--compilers ts:ts-node/register`
+ with: `--require ts-node/register`.
+ See [Mocha](https://github.com/mochajs/mocha/wiki/compilers-deprecation) for details.
