@@ -25,3 +25,5 @@ Return a server bound to App.
 Handle errors.
 Set up listening.
 
+### Configure test environment
+Add Mocha, Chai, & Chai-HTTP
