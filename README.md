@@ -29,6 +29,9 @@ Code the special sauce . . .
 * Work on documentation skills  
 * Understand licensing
 
+## Resources
+[Michael Herman](https://mherman.org/blog)
+[Michael Herman: Node/TypeScript RESTful API](https://mherman.org/blog/developing-a-restful-api-with-node-and-typescript/)
 ## Setup/Installation Requirements
 To view or clone the code, go to [GitHub](https://github.com/skillitzimberg/mern-docker-auth).
 
