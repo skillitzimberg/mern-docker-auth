@@ -4,9 +4,7 @@
     "module": "commonjs"
   },
   "include": [
-    "src/**/*.ts",
-    "services/src/**/*.ts",
-    "client/src/**/*.ts"
+    "src/**/*.ts"
   ],
   "exclude": [
     "node_modules"
