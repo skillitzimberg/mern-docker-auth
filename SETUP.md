@@ -26,4 +26,5 @@ Handle errors.
 Set up listening.
 
 ### Configure test environment
-Add Mocha, Chai, & Chai-HTTP
+Add Mocha, Chai, & Chai-HTTP.  
+Add ts-node to provide TypeScript interpretation to the Mocha environment.  
