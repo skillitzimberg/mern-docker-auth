@@ -33,3 +33,5 @@ Add test script to package.json.
  in test script replace: `--compilers ts:ts-node/register`
  with: `--require ts-node/register`.
  See [Mocha](https://github.com/mochajs/mocha/wiki/compilers-deprecation) for details.
+
+ ### Test routes
